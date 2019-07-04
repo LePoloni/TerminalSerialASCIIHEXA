@@ -1,0 +1,8 @@
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\bin\Release\TerminalSerialASCIIHEXA.exe
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\bin\Release\TerminalSerialASCIIHEXA.pdb
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\obj\x86\Release\TerminalSerialASCIIHEXA.csprojResolveAssemblyReference.cache
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\obj\x86\Release\WinTeste.Form1.resources
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\obj\x86\Release\TerminalSerialASCIIHEXA.Properties.Resources.resources
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\obj\x86\Release\TerminalSerialASCIIHEXA.csproj.GenerateResource.Cache
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\obj\x86\Release\TerminalSerialASCIIHEXA.exe
+F:\Senai-Superior\PRCO\ProgramasC#\WindowsForms\TerminalSerialASCIIHEXA\TerminalSerialASCIIHEXA\obj\x86\Release\TerminalSerialASCIIHEXA.pdb
